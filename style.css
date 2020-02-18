@@ -25,7 +25,7 @@ p {
 }
 
 a {
-  color: #f53465;
+  color: #35b1b1;
 }
 
 .callout {
@@ -42,7 +42,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: teal;
+  background-color: rgb(63, 161, 161);
 }
 
 header h1 {
@@ -59,7 +59,7 @@ header h1 {
   display: block;
   width: 32px;
   height: 6px;
-  background-color: #f53465;
+  background-color: #35b1b1;
   position: absolute;
   top: -27px;
 }
