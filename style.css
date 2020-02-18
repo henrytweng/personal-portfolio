@@ -29,7 +29,7 @@ a {
 }
 
 .callout {
-  color: #E0FFFF;
+  color: rgb(8, 63, 63);
 }
 
 .about-me .column:nth-of-type(2) {
@@ -69,8 +69,8 @@ header h1 {
   background: linear-gradient(rgba(249, 249, 250, 0.94),rgba(249, 249, 250, 0.94)),url(./images/about-background.jpg);
   background-size: cover;
   background-position: center center;
-  padding-top: 142px;
-  padding-bottom: 142px;
+  padding-top: 128px;
+  padding-bottom: 128px;
 }
 
 .about-me h2 {
@@ -92,8 +92,8 @@ header h1 {
 }
 
 .get-in-touch {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .highlight {
